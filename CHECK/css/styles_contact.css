@@ -1,0 +1,30 @@
+*{
+	
+	background-image: url("images/contact.jpg");
+	background-position: center;
+	background-size: cover;
+}
+.container h1{
+	color: white;
+	background: transparent;
+	font-size: 32px;
+	font-family: monospace;
+	position: relative;
+	margin-left: 20px;
+}
+p{
+ 	color: ghostwhite;
+	font-size: 20px;
+	font-family: monospace;
+	background: transparent;
+	margin-top: 419px;
+	color: ghostwhite;
+	text-shadow: 1px solid black;
+	position: absolute;
+
+}
+.logo{
+	box-sizing: border-box;
+	position: absolute;
+	margin-top: 100px;
+}

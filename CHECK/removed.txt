@@ -1,0 +1,5 @@
+} else if (isset($teachers[$tindex]->days[$sem % 2][$r % 6][$j % 5])) {
+            //check if subject teacher is free
+            continue;
+            
+            from 86 algo
